@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "163352628266",
+    "firebase_url": "https://khotianit-default-rtdb.firebaseio.com",
+    "project_id": "khotianit",
+    "storage_bucket": "khotianit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163352628266:android:22cbee622071fde573c753",
+        "android_client_info": {
+          "package_name": "com.traincanteen.admin_traincanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163352628266-c5fb15m4q13pegtq9v4025tlrhsn3pl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsT14cC4O-NU9eex2Jzweyk78qfwN_yYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163352628266-c5fb15m4q13pegtq9v4025tlrhsn3pl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163352628266:android:fbdba88612825e5473c753",
+        "android_client_info": {
+          "package_name": "com.traincanteen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163352628266-c5fb15m4q13pegtq9v4025tlrhsn3pl4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsT14cC4O-NU9eex2Jzweyk78qfwN_yYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163352628266-c5fb15m4q13pegtq9v4025tlrhsn3pl4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
